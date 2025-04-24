@@ -1,3 +1,9 @@
-streamlit
-scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+textblob
 nltk
+wordcloud
+scikit-learn
+streamlit
